@@ -1,5 +1,1 @@
-{
-  "force_update": false,
-  "command_id": "idle-000",
-  "note": "Set force_update=true and bump command_id to trigger clients immediately."
-}
+{"force_update":true,"command_id":"admin-1787045850778","note":"DevzLite remote forced update"}

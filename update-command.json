@@ -1,1 +1,1 @@
-{"force_update":true,"command_id":"admin-1787050288096","note":"DevzLite 3.24.33 - remote warning broadcast feature"}
+{"force_update":false,"command_id":"idle-1787050504912","note":"DevzLite warning broadcast","show_warning":true,"warning_id":"warn-1787050504912","warning_text":"DevzLite is updating now. Onward will close briefly.","warning_seconds":9}

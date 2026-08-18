@@ -1,0 +1,5 @@
+{
+  "force_update": false,
+  "command_id": "idle-000",
+  "note": "Set force_update=true and bump command_id to trigger clients immediately."
+}
